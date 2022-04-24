@@ -14,4 +14,4 @@ I **never** finish my projects... Except the Chifoumi ! I started my Github Acco
 
 ### My French Youtube Channel:
 
-https://www.youtube.com/watch?v=bAhEtLMeI1o
+https://www.youtube.com/channel/UCJBY2GQbOHKOTa9VjZDLKDA
