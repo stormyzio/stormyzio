@@ -9,8 +9,9 @@ I **never** finish my projects... Except the Chifoumi ! I started my Github Acco
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Githoldi&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-#### I only coded a Chifoumi for the moment. But in the terminal !
+#### I made 2 games for the moment !
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Githoldi&repo=Chifoumi.js&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Githoldi&repo=Bingo.js&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ### My French Youtube Channel:
 
