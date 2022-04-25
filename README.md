@@ -1,9 +1,10 @@
 # 🖐 Hello ! I'm Hold_Mine,a french 🥖 young 👦🏻 developper !
 
 Hi, I'm **Hold_Mine**. I'm **young** and **french**. I love **developement** and i have learn **javascript**, **swift** and a little bit **python**.  
-I made **2 repositories**.
+I made **3 repositories**.
 I started my **Github Account** when i created the **Chifoumi**, so, the _25 Apr. 2022_.  
-I have also a **Youtube Channel in french**, where I play **Minecraft**.
+I have also a **Youtube Channel in french**, where I play **Minecraft**.  
+I created the **tricks.js npm package** too!
 
 ## My Github:
 
@@ -23,3 +24,5 @@ I have also a **Youtube Channel in french**, where I play **Minecraft**.
 * [**my french twitter** 📢](https://www.twitter.com/holdmine_ytb)
 
 * [**my website** 💻](https://stormyz.xyz)
+
+* [**tricks.js** 🛠](https://npmjs.com/package/tricks.js)
