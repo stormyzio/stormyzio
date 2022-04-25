@@ -22,4 +22,4 @@ I have also a **Youtube Channel in french**, where I play **Minecraft**.
 
 * [**my french twitter** 📢](https://www.twitter.com/holdmine_ytb)
 
-* [**my website** 💻](https://stormyz.xyz) ( not enable for the moment )
+* [**my website** 💻](https://stormyz.xyz)
