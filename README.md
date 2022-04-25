@@ -1,9 +1,9 @@
-# 🖐 Hello ! I'm Hold_Mine, a young 👦🏻 and french 🥖 developper !
+# 🖐 Hello ! I'm Hold_Mine,a french 🥖 young 👦🏻 developper !
 
-Hi, I'm Hold_Mine. I'm young and french. I love developement and i have learn javascript, swift and a little bit python.  
-I **never** finish my projects... Except the Chifoumi !  
-I started my Github Account when i created the Chifoumi, so, the _25 Apr. 2022_.  
-I have also a Youtube Channel in french, that I play Minecraft.
+Hi, I'm **Hold_Mine**. I'm **young** and **french**. I love **developement** and i have learn **javascript**, **swift** and a little bit **python**.  
+I made **2 repositories**.
+I started my **Github Account** when i created the **Chifoumi**, so, the _25 Apr. 2022_.  
+I have also a **Youtube Channel in french**, where I play **Minecraft**.
 
 ## My Github:
 
@@ -21,3 +21,5 @@ I have also a Youtube Channel in french, that I play Minecraft.
 * [**my french youtube** 📷](https://www.youtube.com/channel/UCJBY2GQbOHKOTa9VjZDLKDA)
 
 * [**my french twitter** 📢](https://www.twitter.com/holdmine_ytb)
+
+* [**my website** 💻](https://stormyz.xyz) ( not enable for the moment )
