@@ -1,4 +1,4 @@
-# 🖐 Hello ! I'm Hold_Mine,a french 🥖 young 👦🏻 developper !
+# 🖐 Hello ! I'm Hold_Mine, a french 🥖 young 👦🏻 developper !
 
 Hi, I'm **Hold_Mine**. I'm **young** and **french**. I love **developement** and i have learn **javascript**, **swift** and a little bit **python**.  
 I made **3 repositories**.
