@@ -8,7 +8,7 @@ I created the **tricks.js npm package** too!
 
 ## My Github:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Githoldi&theme=crimson_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Githoldi&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Githoldi&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
