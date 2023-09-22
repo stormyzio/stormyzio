@@ -1,4 +1,4 @@
-# 🖐 Hello ! I'm Stormyz, a fullstack developper !
+# 🖐 Hello. I'm Stormyz, a fullstack developper.
 
 - **Owner of Kiube :** *[currently in beta]*
 - **Creator of Tricks.js npm package :** https://npmjs.org/package/tricks.js
