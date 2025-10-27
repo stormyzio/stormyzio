@@ -1,6 +1,6 @@
 ## 🖐 Hello. I'm Stormyz, a fullstack developper.
 
-I'm making projects. Right now a Minecraft Server.
+I'm making projects. Right now a Crypto trading app.
 
 ## I'm using :
 
