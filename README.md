@@ -1,7 +1,7 @@
 ## 🖐 Hello. I'm Stormyz, a fullstack developper.
 
-I'm making projects. Right now a Crypto trading app.
+I'm making projects. Right now a Crypto trading app. -> https://tactictrade.net
 
 ## I'm using :
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,vscode,nodejs,postman,vercel,figma,java,idea,mysql,mongodb&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,html,css,svelte,mongodb,nodejs,express,vscode,figma&perline=6)](https://skillicons.dev)
