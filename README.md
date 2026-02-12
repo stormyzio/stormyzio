@@ -1,6 +1,8 @@
-## 🖐 Hello. I'm Stormyz, a fullstack developper.
+## 🖐 Hello. I'm Stormyz.
 
-I'm making projects. Right now a Crypto trading app. -> https://tactictrade.net
+I'm a full stack developer, making projects.
+- Developing an optic physics simulation.
+- My Crypto trading app. -> https://tactictrade.net
 
 ## I'm using :
 
