@@ -1,7 +1,7 @@
 ## 🖐 Hello. I'm Stormyz.
 
 I'm a full stack developer, making projects.
-- Developing an optic physics simulation.
+- Developing an optic physics simulation, available soon.
 - My Crypto trading app. -> https://tactictrade.net
 
 ## I'm using :
