@@ -1,6 +1,6 @@
 ## 🖐 Hello. I'm Stormyz.
 
-I'm a full stack developer, making projects.
+I'm a fullstack developer, making projects.
 - Developing an optic physics simulation, available soon.
 - My Crypto trading app. -> https://tactictrade.net
 
