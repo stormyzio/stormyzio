@@ -6,4 +6,4 @@ I'm a fullstack developer, making projects.
 
 ### I'm using :
 
-[![My Skills](https://skillicons.dev/icons?i=ts,html,css,svelte,mongodb,nodejs,express,vscode,figma&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,html,css,svelte,mongodb,nodejs,vscode,figma&perline=4)](https://skillicons.dev)
