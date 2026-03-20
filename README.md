@@ -1,4 +1,4 @@
-## 🖐 Hello. I'm Stormyz.
+## 🖐 Hi. I'm Stormyz.
 
 I'm a fullstack developer, making projects.
 - My optic simulation -> https://deltaray.vercel.app
